@@ -1,6 +1,6 @@
 {
   "name": "passmaster",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "PassMaster: Tu aliado confiable para generar contraseñas aleatorias y seguras al instante. Crea combinaciones únicas de caracteres con un solo comando, personalizando longitud, tipo y cantidad de caracteres. Además, añade prefijos o sufijos según tus preferencias. Protege tus cuentas y datos con facilidad, ideal para crear cuentas rápidas y reforzar tu seguridad en línea.",
   "main": "src/index.js",
   "type": "module",
